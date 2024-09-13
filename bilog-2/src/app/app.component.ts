@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'Bilog-2 - Light weight baby';
+  title = 'Bilog-2';
 }
